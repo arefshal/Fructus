@@ -35,7 +35,6 @@ Fructus is a beautiful iOS app that showcases various fruits with detailed infor
     <td>
       <img src="https://github.com/user-attachments/assets/aff85b45-085d-4939-8391-746a625cfe15" width="100" />
     </td>
-
     <td>
       <img src="https://github.com/user-attachments/assets/457669f5-331e-4415-bf16-9c758023f1f3" width="100" />
     </td>
