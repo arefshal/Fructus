@@ -29,9 +29,18 @@ Fructus is a beautiful iOS app that showcases various fruits with detailed infor
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/arefshal/Fructus/main/Fructus/Assets.xcassets/Fruits/apple.imageset/apple.png" width="100" /></td>
-    <td><img src="https://raw.githubusercontent.com/arefshal/Fructus/main/Fructus/Assets.xcassets/Fruits/blueberry.imageset/blueberry.png" width="100" /></td>
-    <td><img src="https://raw.githubusercontent.com/arefshal/Fructus/main/Fructus/Assets.xcassets/Fruits/strawberry.imageset/strawberry.png" width="100" /></td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/9560aff0-c1af-45c3-aa02-5be157e00f2a" width="100" />
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/aff85b45-085d-4939-8391-746a625cfe15" width="100" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/arefshal/Fructus/main/Fructus/Assets.xcassets/Fruits/strawberry.imageset/strawberry.png" width="100" />
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/457669f5-331e-4415-bf16-9c758023f1f3" width="100" />
+    </td>
   </tr>
 </table>
 
